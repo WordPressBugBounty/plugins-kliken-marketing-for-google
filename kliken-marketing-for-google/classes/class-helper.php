@@ -434,7 +434,7 @@ class Helper {
 			$state['settings']   = \Kliken\FbWcPlugin\Helper::get_plugin_settings();
 			$state['configured'] = \Kliken\FbWcPlugin\Helper::is_plugin_configured( $state['settings'] );
 		} else {
-			$state['settings']   = get_option( $state['option_key'] );
+			$state['settings']   = get_option( $state['option_key'], [] );
 			$state['configured'] = ! empty( $state['settings'] )
 				&& self::is_valid_account_id( $state['settings']['account_id'] )
 				&& self::is_valid_app_token( $state['settings']['app_token'] );
