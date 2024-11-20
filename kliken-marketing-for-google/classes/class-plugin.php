@@ -180,7 +180,7 @@ class Plugin {
 			$plugin_links[] = '<a href="' . esc_url( Helper::get_plugin_page() ) . '">' . __( 'Dashboard', 'kliken-marketing-for-google' ) . '</a>';
 		}
 
-		$plugin_links[] = '<a href="https://support.kliken.com/hc/en-us">' . __( 'Support', 'kliken-marketing-for-google' ) . '</a>';
+		$plugin_links[] = '<a href="https://intercom.help/kliken/">' . __( 'Support', 'kliken-marketing-for-google' ) . '</a>';
 
 		return array_merge( $plugin_links, $links );
 	}

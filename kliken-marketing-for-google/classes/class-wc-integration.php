@@ -80,7 +80,7 @@ class WC_Integration extends \WC_Integration {
 			],
 			'guide_link'     => [
 				'type'        => 'desc',
-				'description' => '<a href="https://support.kliken.com/hc/en-us/articles/360016107933-WooCommerce-Advanced-Options" target="_blank" rel="noopener noreferrer">' . __( 'What are these options?', 'kliken-marketing-for-google' ) . '</a>',
+				'description' => '<a href="https://intercom.help/kliken/en/articles/5989948" target="_blank" rel="noopener noreferrer">' . __( 'What are these options?', 'kliken-marketing-for-google' ) . '</a>',
 				'desc_tip'    => '',
 			],
 		];

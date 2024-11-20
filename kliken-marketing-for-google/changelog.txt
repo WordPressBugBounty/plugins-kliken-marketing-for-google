@@ -1,5 +1,8 @@
 *** AI Powered Marketing Changelog ***
 
+2024-11-20 - version 1.5.3
+* Updated help center links.
+
 2024-11-11 - version 1.5.2
 * Minor bug fixes.
 * Support latest WordPress and WooCommerce version.

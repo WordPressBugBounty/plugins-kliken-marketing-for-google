@@ -2,7 +2,7 @@
 Contributors: sitewit
 Tags: advertising, adwords, analytics, bing, google, leads, marketing, marketing platform, metrics, online advertising, online marketing, plugin, ppc, PPC, google shopping, shopping ads, product ads, ROI, conversions
 Tested up to: 6.7
-Stable tag: 1.5.2
+Stable tag: 1.5.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -134,7 +134,6 @@ Google Ads & Marketing for WooCommerce is a contract free service. You can cance
 
 == Changelog ==
 
-= 1.5.2 =
-* Minor bug fixes.
-* Support latest WordPress and WooCommerce version.
+= 1.5.3 =
+* Updated help center links.
 

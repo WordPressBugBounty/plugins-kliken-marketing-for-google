@@ -10,7 +10,7 @@
  * Text Domain: kliken-marketing-for-google
  * Domain path: /languages
  *
- * Version: 1.5.2
+ * Version: 1.5.3
  * Requires PHP: 7.4
  * Requires at least: 5.8
  * Tested up to: 6.7
