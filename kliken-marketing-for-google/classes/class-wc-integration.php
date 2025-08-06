@@ -80,7 +80,7 @@ class WC_Integration extends \WC_Integration {
 			],
 			'guide_link'     => [
 				'type'        => 'desc',
-				'description' => '<a href="https://intercom.help/kliken/en/articles/5989948" target="_blank" rel="noopener noreferrer">' . __( 'What are these options?', 'kliken-marketing-for-google' ) . '</a>',
+				'description' => '<a href="https://intercom.help/kliken/articles/5989948" target="_blank" rel="noopener noreferrer">' . __( 'What are these options?', 'kliken-marketing-for-google' ) . '</a>',
 				'desc_tip'    => '',
 			],
 		];
